@@ -1,0 +1,51 @@
+body{
+  background-color: grey;
+  font-family: Arial;
+  text-align: center;
+  color: orange;
+}
+
+p{
+  display: block;
+  color: white;
+  font-size: 45%;
+  text-align: left;
+}
+.test {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+#coba {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15pt;
+  text-align: center;
+  background-color: pink;
+}
+
+.test1{
+  color: #FFFFFF;
+  background: #96281B;
+}
+
+.test2{
+  color: brown;
+  background-color: green;
+  font-family: sans;
+}
+
+#coba2{
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15pt;
+  text-align: center;
+  background-color: cyan;
+}
